@@ -23,7 +23,7 @@ export default function About() {
       </p>
 
       <p>
-       With strong communication skills and a collaborative mindset, I drive team success and deliver high-quality solutions. I'm passionate about continuous learning, personal growth, and expanding my skill set into full-stack development.
+       With strong communication skills and a collaborative mindset, I drive team success and deliver high-quality solutions. I&apos;m passionate about continuous learning, personal growth, and expanding my skill set into full-stack development.
       </p>
     </motion.section>
   );
